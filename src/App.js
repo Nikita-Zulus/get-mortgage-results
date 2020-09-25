@@ -1,10 +1,10 @@
 import React from "react";
-import { Header } from "./conponents/Header";
-import { Title } from "./conponents/Title";
-import { MortgageResult } from "./conponents/MortgageResult";
-import { Banks } from "./conponents/Banks";
-import { Loader } from "./conponents/Loader";
-import { Footer } from "./conponents/Footer";
+import { Header } from "./components/Header";
+import { Title } from "./components/Title";
+import { MortgageResult } from "./components/MortgageResult";
+import { Banks } from "./components/Banks";
+import { Loader } from "./components/Loader";
+import { Footer } from "./components/Footer";
 
 function App() {
   return (
