@@ -1,5 +1,5 @@
 React component of cian for getting motgage variants.
-In this particular App i have used react/redax libraries, animation of loader i have done with "keyframes".
+In this particular App i have used react/redux libraries, animation of loader i have done with "keyframes".
 If you want to see all of the mortgage variants, you can push the button "Получить предложения".
 If you want to see this app on github pages please use link below:
 (https://Nikita-Zulus.github.io/get-mortgage-results)
